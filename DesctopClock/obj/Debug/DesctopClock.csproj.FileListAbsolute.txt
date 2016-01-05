@@ -1,0 +1,1 @@
+c:\users\yasen.lazarov\documents\visual studio 2015\Projects\DesctopClock\DesctopClock\bin\Debug\DesctopClock.exe.config
